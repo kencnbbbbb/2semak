@@ -1,0 +1,10 @@
+9
+FRIENDS Peter Goward
+FRIENDS Goward Peter
+FRIENDS Peter Peter
+FRIENDS Goward Sally
+COUNT Goward
+COUNT Justin
+QUESTION Goward Peter
+QUESTION Peter Peter
+QUESTION Justin Jenny
